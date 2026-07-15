@@ -11,7 +11,7 @@ import telebot
 # ==========================
 BOT_TOKEN = "8996577471:AAG9pOR2Hj_OAmawKX2oL4qPEWu4dRnO6dY"
 GROUP_ID = "-1003960397555"
-API_TOKEN = "258166|sHG7YNz8amnXrRTRg499zzNm9vUqICoLvVJB16JK36d3fd26"
+API_TOKEN = "268869|y3GU646z4qZviJNJAFttEmFfpLdHNivD09rqkmX148c1662c"
 
 API_URL = "https://api.iprn.pro/api/stock/public/edr"
 
